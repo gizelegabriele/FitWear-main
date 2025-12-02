@@ -1,6 +1,6 @@
 # FitWear - React Native
 
-Aplicativo de loja de roupas de academias com integração de **IA** para pesquisa inteligente de produtos.
+Aplicativo de loja de roupas com integração de **IA** para pesquisa inteligente de produtos.
 
 ## Tecnologias
 - React Native
@@ -22,12 +22,6 @@ Aplicativo de loja de roupas de academias com integração de **IA** para pesqui
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/a70dbec0-e804-4562-a5c6-57613bde9c84"  />
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/c92d1e33-8a39-499f-9317-3ce6ab828a88" />
 
-
-
-
-
 ## Como rodar
-1. Clonar repositório: `git clone <URL_DO_REPOSITORIO>`
+1. Clonar repositório: `git clone <https://github.com/gizelegabriele/FitWear-main.git>`
 2. Instalar dependências: `npm install`
-3. Criar arquivo `.env` com a variável `OPENAI_API_KEY`
-4. Rodar app: `npm run android` ou `npm run ios`
